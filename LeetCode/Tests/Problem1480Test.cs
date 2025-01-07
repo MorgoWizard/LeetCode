@@ -1,4 +1,4 @@
-﻿using LeetCode.Problems._1480_Running_Sum_Of_1d_Array;
+﻿using LeetCode.Problem1480RunningSumOf1DArray;
 
 
 public class Problem1480Tests
