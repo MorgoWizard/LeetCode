@@ -1,4 +1,4 @@
-﻿namespace LeetCode.Problem1672RichestCustomerWealth;
+﻿namespace LeetCode.Problems.Problem1672RichestCustomerWealth;
 
 public class Problem1672RichestCustomerWealth
 {
