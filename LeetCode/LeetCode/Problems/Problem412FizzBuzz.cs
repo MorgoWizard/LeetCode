@@ -1,4 +1,4 @@
-﻿namespace LeetCode.Problems.Problem412FizzBuzz;
+﻿namespace LeetCode.Problems;
 
 public class Problem412FizzBuzz
 {
