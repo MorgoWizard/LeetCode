@@ -1,4 +1,4 @@
-﻿namespace LeetCode.Problems.Problem1480RunningSumOf1DArray;
+﻿namespace LeetCode.Problems;
 
 public class Problem1480RunningSumOf1DArray {
     public int[] RunningSum(int[] nums) {

@@ -1,4 +1,4 @@
-﻿using LeetCode.Problems.Problem1672RichestCustomerWealth;
+﻿using LeetCode.Problems;
 
 public class Problem1672Tests
 {

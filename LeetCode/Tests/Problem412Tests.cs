@@ -1,4 +1,4 @@
-﻿using LeetCode.Problems.Problem412FizzBuzz;
+﻿using LeetCode.Problems;
 
 public class Problem412Tests
 {
